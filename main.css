@@ -17,3 +17,18 @@ nav	{
 li {
 	display: inline;
 }
+
+img {
+	max-width: 200px;
+}
+
+table, th, td {
+	border: 1px	solid black;
+}
+table {
+	margin: auto;
+}
+
+.center-text {
+	text-align: center;
+}
